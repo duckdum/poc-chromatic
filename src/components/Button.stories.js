@@ -31,7 +31,7 @@ export const buttons = () => (
     <Button appearance="outline">Outline</Button>
     <Button appearance="primaryOutline">Outline primary</Button>
     <Button appearance="secondaryOutline">Outline secondary</Button>
-    <div style={{ background: 'grey', display: 'inline-block' }}>
+    <div style={{ background: 'green', display: 'inline-block' }}>
       <Button appearance="inversePrimary">Primary inverse</Button>
     </div>
     <div style={{ background: 'grey', display: 'inline-block' }}>
